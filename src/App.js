@@ -12,6 +12,7 @@ function App() {
             src={illustration}
             width="180"
             className="illustration img-fluid"
+            alt="illustration"
           />
         </header>
         <main>
@@ -23,6 +24,7 @@ function App() {
             href="https://github.com/liviaalcantaraf/react-dictionary"
             className="open-code"
           >
+            {" "}
             Open-source code
           </a>{" "}
           by Lívia A.
