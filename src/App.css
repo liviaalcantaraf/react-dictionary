@@ -1,16 +1,14 @@
-a {
-  color: black;
-}
 .App {
-  max-width: 960px;
+  max-width: 860px;
   margin: 0 auto;
 }
 
 .App-header {
-  margin: 30px 0;
+  margin: 50px 0;
   font-family: "Lilita One", cursive;
   text-align: center;
-  font-size: 50px;
+  font-size: 55px;
+  color: #312f44;
 }
 
 .App-img {
@@ -22,5 +20,17 @@ a {
 .App-footer {
   text-align: center;
   margin: 30px 0;
-  font-size: 13px;
+  font-size: 14px;
+  color: #312f44;
+  font-family: "Nanum Gothic Coding", monospace;
+  font-weight: bold;
+}
+
+.App a {
+  color: #312f44;
+  text-decoration: none;
+}
+
+.App a:hover {
+  color: #5b5780;
 }
