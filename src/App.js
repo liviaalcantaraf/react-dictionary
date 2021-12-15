@@ -15,7 +15,7 @@ function App() {
           />
         </header>
         <main>
-          <Dictionary defaultKeyword="sunset" />
+          <Dictionary defaultKeyword="travel" />
         </main>
 
         <footer className="App-footer">

@@ -16,3 +16,16 @@
   font-family: "Poppins", sans-serif;
   font-size: 18px;
 }
+
+@media (max-widht: 640px) {
+  .Meaning h3 {
+    font-size: 25px;
+    line-height: 1.5;
+  }
+  .Meaning .definition {
+    font-size: 13px;
+  }
+  .Meaning .example {
+    font-size: 13px;
+  }
+}

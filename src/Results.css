@@ -7,3 +7,9 @@
   font-weight: bold;
   font-family: "Poppins", sans-serif;
 }
+
+@media (max-width: 640px) {
+  .Results h2 {
+    font-size: 35px;
+  }
+}

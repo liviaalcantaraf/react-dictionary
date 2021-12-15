@@ -28,3 +28,13 @@
   margin-top: 5px;
   color: #5b5780;
 }
+
+@media (max-width: 640px) {
+  .Dictionary input {
+    width: 80%;
+    display: block;
+  }
+  .Dictionary h1 {
+    font-size: 15px;
+  }
+}
