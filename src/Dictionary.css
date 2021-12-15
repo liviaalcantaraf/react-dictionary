@@ -2,6 +2,7 @@
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 20px;
+  font-family: "Nanum Gothic Coding", monospace;
 }
 
 .Dictionary section {
@@ -20,7 +21,8 @@
   border: 1px solid #ddd;
 }
 
-.Dictionary hint {
+.Dictionary .suggested-words {
   font-size: 11px;
+  font-style: italic;
   margin-top: 5px;
 }
