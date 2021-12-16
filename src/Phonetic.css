@@ -27,3 +27,6 @@
   position: relative;
   top: -20px;
 }
+.Phonetic .audio {
+  max-width: 100%;
+}
